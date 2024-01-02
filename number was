@@ -1,0 +1,8 @@
+  else
+                puts "Unfortunately, you've run out of attempts. The secret number was #{secret_number}."
+            end
+        end
+    end
+end
+
+guess_the_number
